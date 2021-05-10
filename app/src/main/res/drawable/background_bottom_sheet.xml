@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners
+        android:topLeftRadius="@dimen/radius_sheet"
+        android:topRightRadius="@dimen/radius_sheet" />
+    <padding android:top="@dimen/medium" />
+    <padding android:left="@dimen/medium"/>
+    <padding android:right="@dimen/medium"/>
+    <padding android:bottom="@dimen/nav_header_height"/>
+    <solid android:color="@android:color/white" />
+</shape>

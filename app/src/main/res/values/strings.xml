@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">OlehOleh</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_keranjang">Keranjang</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="title_account">Akun</string>
+    <string name="title_edit_profil">Edit Profil</string>
+    <string name="title_pengiriman">Pengiriman</string>
+    <string name="title_welcome">Selamat Datang</string>
+    <string name="title_halo">Halo!</string>
+
+    <!--    home-->
+    <string name="copy">Salin</string>
+    <string name="ktg">Kategori</string>
+    <string name="recom">Rekomendasi</string>
+    <string name="detail">Detail</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="dan_lainnya">Dan Lainnya...</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!--    menu detail-->
+    <string name="add_keranjang">tambah</string>
+    <string name="beli_sekarang">Beli</string>
+
+    <!--    database-->
+
+    <!--    reference-->
+    <string name="users_ref">users</string>
+    <string name="ktg_ref">kategori_produk</string>
+    <string name="banner_ref">banner</string>
+    <string name="produk_ref">produk</string>
+    <string name="pemesanan_ref">pemesanan</string>
+    <string name="detail_pemesanan_ref">detail_pemesanan</string>
+    <string name="keranjang_ref">keranjang</string>
+    <string name="favorite_ref">favorite</string>
+    <string name="pembayaran_ref">pembayarans</string>
+    <string name="logo_bank_ref">logo_bank</string>
+    <string name="notif_user_ref">notifikasi_user</string>
+    <string name="notif_all_user_ref">notifikasi_umum</string>
+
+    <string name="title_activity_detail_produk">DetailProdukActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--    auth-->
+    <string name="login">Sign In</string>
+    <string name="logout">Log Out</string>
+    <string name="daftar">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="lupa_password">Lupa Kata Sandi</string>
+    <string name="tidak_ada_akun">Tidak Punya Akun?</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="no_hp">Nomor HP</string>
+    <string name="alamat">Alamat</string>
+    <string name="pilih_alamat">Pilih Alamat</string>
+    <string name="sudah_ada_akun">Sudah memiliki akun?</string>
+
+    <!--    MSG-->
+    <string name="msg_new_akun">Akun berhasil didaftarkan. Silahkan periksa Email anda untuk Verifikasi. Terimakasih</string>
+    <string name="msg_no_akun">Akun Tidak Ditemukan</string>
+    <string name="msg_no_verif">Akun anda belum dilakukan verifikasi, silahkan cek Email anda.</string>
+    <string name="msg_salah">Email dan Password yang anda masukkan salah. Coba lagi!</string>
+
+    <!--    edit profil-->
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="klik_here">Klik Disini</string>
+
+    <!--  menu  keranjang-->
+    <string name="semua">Semua</string>
+    <string name="hapus">Hapus</string>
+    <string name="ubah">ubah</string>
+    <string name="checkout">Checkout</string>
+    <string name="total">Total Bayar</string>
+
+    <!--    CHEKCOUT-->
+    <string name="produk">Produk</string>
+    <string name="pesan">Pesan</string>
+    <string name="alamat_pengirim">Alamat Pengiriman</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="silahkan_tf">Silahkan Transfer Ke:</string>
+    <string name="a.n">a.n</string>
+    <string name="ongkir">Ongkos Kirim</string>
+    <string name="estimasi">Estimasi Sampai</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="note">Catatan</string>
+
+    <!--  Konfirmasi transfer -->
+    <string name="konf_tf">Konfirmasi Pembayaran</string>
+    <string name="do_tf">LAKUKAN PEMBAYARAN KE REKENING BERIKUT</string>
+    <string name="nominal">Nominal Transfer</string>
+    <string name="kode_unik">Kode Unik</string>
+    <string name="total_nominal">Total Nominal</string>
+    <string name="warning_tf">Pastikan Nominal Transfer SESUAI DENGAN ANGKA DIATAS (Termasuk 3 Angka Terakhir).</string>
+    <string name="warning_kirim">Pesanan akan otomatis dibatalkan jika tidak menyelesaikan dalam waktu 15 MENIT.</string>
+    <string name="kirim_bukti">Kirim Bukti Pembayaran</string>
+
+    <!--    PESANAN KU-->
+    <string name="pesananku">Lihat Pesanan</string>
+    <string name="title_activity_pesanan_ku">Pesanan Ku</string>
+    <string name="tab_bayar">Belum Bayar</string>
+    <string name="tab_proses">Diproses</string>
+    <string name="tab_kirim">Dikirim</string>
+    <string name="tab_terima">Diterima</string>
+    <string name="tab_selesai">Selesai</string>
+    <string name="btn_bayar">Bayar Sekarang</string>
+    <string name="beri_nilai">Beri Nilai</string>
+    <string name="berakhir">Berakhir pada:</string>
+    
+<!--    STATUS PESANAN-->
+    <string name="belum_bayar">Menunggu Pembayaran</string>
+    <string name="proses">Pesanan Sedang Diproses</string>
+    <string name="kirim">Pesanan Sedang Dikirim</string>
+    <string name="terima">Pesanan Sudah Diterima</string>
+    <string name="selesai">Pesanan Telah Selesai</string>
+
+    <string name="msg_bb">Silahkan transfer sebelum </string>
+    <string name="batal">Batalkan</string>
+    <string name="mhn_tunggu">Mohon ditunggu dan Siapkan Uang Pas</string>
+    <string name="beri_rate">Tolong beri penilaian anda. Terimakasih.</string>
+    <string name="msg_selesai">Terimakasih. Silahkan pesan kembali.</string>
+
+<!--    HASIL PENCARIAN-->
+    <string name="result_search">Hasil Untuk </string>
+    <string name="filter">Harga</string>
+</resources>
